@@ -40,3 +40,10 @@ width: 700px; font-size: 52px; line-height: 70px;
 .lavel1 div img {
     width: 440px; height: 414px; left: 835px;  margin-top: 50px; margin-right: 40px;
 }
+    /* logo layout */
+    .logos{
+        margin: 100px 165px;
+    }
+.logo{
+    margin-right: 40px;
+}
