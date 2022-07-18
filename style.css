@@ -72,3 +72,6 @@ div .product-title{
 .products p{
     font-size: 14px; color:  #787885;
 }
+.see{
+    background-color: #E02C6D;gap: 8px; border-radius: 41px;padding: 10px 24px; border: none; color: aliceblue; margin-top: 30px; margin-left: 85%;
+}
