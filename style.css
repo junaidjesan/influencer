@@ -47,3 +47,28 @@ width: 700px; font-size: 52px; line-height: 70px;
 .logo{
     margin-right: 40px;
 }
+/* products details */
+.product2{
+    text-align: center;
+}
+.abc{
+    display: grid; grid-template-columns: repeat(3, 1fr);  margin-left: 60px; margin-top: 60px; row-gap: 40px;
+}
+ .products{
+    height: 476px; width: 329px; padding: 17px 1px 0 17px; box-shadow: 1px 1px 14px 1px #3A3A3A;
+}
+div .products-image{
+    height: 256px; width: 300px;
+}
+div .product-title{
+    height: 28px;
+}
+.products i{
+    color: orange; 
+}
+.products span{
+    margin-left: 7px;
+}
+.products p{
+    font-size: 14px; color:  #787885;
+}
